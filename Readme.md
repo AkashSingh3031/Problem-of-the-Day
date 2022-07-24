@@ -2,7 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=23FF4DFF&size=40&width=750&height=80&lines=The+Problem+of+the+Day"/>
 </p>
 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+
 ![The Problem of the Day](https://github.com/AkashSingh3031/The-Problem-of-the-Day/blob/master/images/Coding%20Logo.png)
+
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
 ## `Social Networks:`
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/AkashSingh3031?tab=followers)
