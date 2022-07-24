@@ -1,6 +1,6 @@
 <h1 align='center'><a href="https://github.com/AkashSingh3031/Problem-of-the-Day"><code> Problem of the Day [POTD] </code></a></h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=23FF4DFF&size=40&width=750&height=80&lines=LeetCode"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=23FF4DFF&size=40&width=310&height=80&duration=2000&lines=LeetCode;GeeksforGeeks;Coding+Ninjas;binarysearch;work@tech;InterviewBit;CodeChef;CodeForces;HackerRank;HackerEarth"/>
 </p>
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
