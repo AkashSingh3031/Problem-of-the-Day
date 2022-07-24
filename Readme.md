@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=23FF4DFF&size=40&width=750&height=80&lines=The+Problem+of+the+Day"/>
 </p>
 
-### `Social Networks:`
+![The Problem of the Day](https://github.com/AkashSingh3031/The-Problem-of-the-Day/blob/master/images/Coding%20Logo.png)
+
+## `Social Networks:`
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/AkashSingh3031?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akashsingh3031/)
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/919794423031)
@@ -14,7 +16,7 @@
 [![Subscribe to my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@akashsingh3031)
 
-### `Coding Profiles:`
+## `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akashsingh3031)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akashsingh3031)
 [![Coding Ninjas](https://img.shields.io/badge/-Coding_Ninjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
@@ -23,8 +25,6 @@
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/akashsingh3031)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@akashsingh3031)
-
-![The Problem of the Day](https://github.com/AkashSingh3031/The-Problem-of-the-Day/blob/master/images/Coding%20Logo.png)
 
 <p align="center">
   <code><a href="https://leetcode.com/problemset/all" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="50px"/></a></code>
